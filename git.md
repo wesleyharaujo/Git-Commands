@@ -1,12 +1,12 @@
 # GIT COMANDOS
 
-**git status**
+- **git status**
 exibe status
-**git add .**
+- **git add .**
 adiciona todos os arquivos da pasta na visao do git para commits
 **git add "nome.tipo"**
 diciona o arquivo na visao do git para commits
-**git commit -m "NOME DO COMMIT"** 		    
+**git commit -m "NOME DO COMMIT"**
 faz um commit para branch master( -m )
 **git log**
 ver commits
