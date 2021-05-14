@@ -1,8 +1,8 @@
 # GIT COMANDOS
 
-**git status**                              
+**git status**
 exibe status
-**git add .** 				                
+**git add .**
 adiciona todos os arquivos da pasta na visao do git para commits
 **git add "nome.tipo"** 			        
 diciona o arquivo na visao do git para commits
