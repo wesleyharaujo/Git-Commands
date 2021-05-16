@@ -50,7 +50,3 @@
 
 - **git clone {caminho} {nome novo repositorio}** -> Clona um repositorio dentro de uma nova pasta com o nome que vc escolheu
 - **git push {nome repo} {branch}** -> envia os dados do seu repositorio para o server
-
-
-
-**Teste Conteudo Master**
