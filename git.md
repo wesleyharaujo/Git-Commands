@@ -26,6 +26,7 @@
 
 - **git clone {caminho} projeto** -> clona um repositorio dentro de uma nova pasta chamada projeto(Nome que vc escolheu)
 - **git push {nome repo} {branch}** -> envia os dados do seu repositorio para o server
-- **git remote rename {nome repo} {novo nome repo}** -> Renomear um vinculo com o server
+**Teste Conteudo Master errado a ser retirado**
 
 
+**Teste Conteudo Master**
