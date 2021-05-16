@@ -5,8 +5,9 @@
 - **git init** -> cria um novo repositorio
 - **git status** -> Exibe status
 - **git log** -> Exibir commits
-- **$ git log --oneline** -> Exibir commits de forma mais sismples e reduzida
+- **git log --oneline** -> Exibir commits de forma mais sismples e reduzida
 - **git log -p** -> Exibir commits com as modificações realizadas
+- **git log --graph**  -> Exibir log com grafico de branches
 - **https://devhints.io/git-log** -> Link log cheatsheets
 
 ---
@@ -36,7 +37,7 @@
 
 ---
 
-## --- SERVER CONFIG ---
+## --- REPOSITORIO CONFIG ---
 
 - **git init --bare** -> Criar repositorio "puro" que pode ser usado como servidor
 - **git remote add NOME_SERVIDOR CAMINHO** -> Add um vinculo entre o git local e um server
@@ -46,7 +47,8 @@
 
 ---
 
-## --- SERVER PUSH/PULL DADOS --- 
+## --- REPOSITORIO PUSH/PULL DADOS --- 
 
 - **git clone {caminho} {nome novo repositorio}** -> Clona um repositorio dentro de uma nova pasta com o nome que vc escolheu
-- **git push {nome repo} {branch}** -> envia os dados do seu repositorio para o server
+- **git push {nome repo} {branch}** -> Envia os dados para o repositorio
+- **git pull {repositorio} {branch}** -> Puxa dados do repositorio 
