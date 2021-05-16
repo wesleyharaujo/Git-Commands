@@ -1,15 +1,25 @@
 # GIT COMANDOS
 
-- **git status** -> exibe status
-- **git add .** -> adiciona todos os arquivos da pasta na visao do git para commits
-- **git add "nome.tipo"** -> diciona o arquivo na visao do git para commits
-- **git commit -m "NOME DO COMMIT"** -> faz um commit para branch master( -m )
-- **git log** -> ver commits
-- **$ git log --oneline** -> ver commits de forma mais ismples e reduzida
-- **git log -p** -> ver commits com as modificações realizadas
-- **https://devhints.io/git-log** 		     -> Link log cheatsheets
-- **git config --local user.email** -> ver o email salvo no config local
-- **git config --local user.name "Wesley"** -> mudar config local do git referente ao nome
+- **git status** -> Exibe status
+- **git branch** -> Exibir branchs
+- **git log** -> Exibir commits
+- **$ git log --oneline** -> Exibir commits de forma mais sismples e reduzida
+- **git log -p** -> Exibir commits com as modificações realizadas
+- **https://devhints.io/git-log** -> Link log cheatsheets
+
+---
+
+## --- USERS CONFIG
+- **git config --local user.{propriedade}** -> Exibir o valor dapropriedade do usuario local
+- **git config --local user.{propriedade} "Valor"** -> Mudar config local usuario
+
+---
+
+## COMMITS COMANDS
+
+- **git add .** -> Adiciona todos os arquivos da pasta na visao do git para commits
+- **git add "nome.tipo"** -> Adiciona o arquivo na visao do git para commits
+- **git commit -m "NOME DO COMMIT"** -> Faz um commit para branch master( -m )
 
 ---
 
