@@ -1,4 +1,7 @@
 # GIT COMANDOS
+
+## BASICS
+
 - **git init** -> cria um novo repositorio
 - **git status** -> Exibe status
 - **git log** -> Exibir commits
@@ -14,7 +17,7 @@
 
 ---
 
-## --- Branches
+## --- BRANCHES
 
 - **git branch** -> Exibir branches
 - **git branch {nome}** -> Cria uma nova branches com o nome indicado
@@ -23,7 +26,7 @@
 
 ---
 
-## COMMITS COMANDS
+## --- COMMITS COMANDS
 
 - **git add .** -> Adiciona todos os arquivos da pasta na visao do git para commits
 - **git add {arquivo.extensão}** -> Adiciona o arquivo na visao do git para commits
@@ -43,7 +46,7 @@
 
 ---
 
-### --- SERVER PUSH/PULL DADOS --- 
+## --- SERVER PUSH/PULL DADOS --- 
 
 - **git clone {caminho} {nome novo repositorio}** -> Clona um repositorio dentro de uma nova pasta com o nome que vc escolheu
 - **git push {nome repo} {branch}** -> envia os dados do seu repositorio para o server
