@@ -1,6 +1,6 @@
 # GIT COMANDOS
 
-## BASICS
+## --- BASICS
 
 - **git init** -> cria um novo repositorio
 - **git status** -> Exibe status
