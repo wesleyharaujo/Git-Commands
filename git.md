@@ -27,6 +27,20 @@
 
 ---
 
+## CTRL-Z
+
+- **git checkout -- {arquivos}** -> Desfazer mudanças que ainda não foram add para commit
+- **git reset HEAD** -> Desfazer mudanças que ja foram add
+- **git revert {hash}** -> Desfazer commit
+
+- **git stash** -> Salva temporariamente um trabalho sem realizar um log
+- **git stash list** -> Lista os stash 
+- **git stash pop {numero stash}** -> Lista os stash 
+
+- **git checkout {commit hash}** -> Usado para voltar o estado do codigo para o commit escolhido ( E possivel criar uma nova branch para criar uma nova linhqa de trabalho )]
+
+---
+
 ## --- COMMITS COMANDS
 
 - **git add .** -> Adiciona todos os arquivos da pasta na visao do git para commits
