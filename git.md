@@ -32,7 +32,7 @@
 - **git add {arquivo.extensão}** -> Adiciona o arquivo na visao do git para commits
 - **git commit -{branch} "{NOME DO COMMIT}"** -> Faz um commit
 - **git merge {branch}** -> Junta duas branches ( para salvar no VIM use :X)
-
+- **git rebase {branch}** -> Puxa os commits da branch escolhida para atual logo antes do seu ultimo commit
 
 ---
 
