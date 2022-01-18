@@ -22,8 +22,8 @@
 
 - **git branch** -> Exibir branches
 - **git branch {nome}** -> Cria uma nova branches com o nome indicado
-- **git branch checkout {branch}** -> Muda para a branch escolhida 
-
+- **git checkout {branch}** -> Muda para a branch escolhida 
+- **git branch -d {branch}** -> remover uma branch
 
 ---
 
