@@ -1,7 +1,7 @@
 ## Entity
 * Install EntityFramework tool
     ```javascript 
-    dotnet tool --g dotnet-ef
+    dotnet tool install --global dotnet-ef
     
 * Create new migration
   ```javascript
